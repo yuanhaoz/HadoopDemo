@@ -16,7 +16,7 @@ Hadoop框架包括以下四个模块：
 
 我们可以使用下面的图来描述这四个组件在Hadoop框架中可用。
 
-![image][https://github.com/yuanhaoz/HadoopDemo/blob/master/img/hadoop_architecture.jpg]
+![Image text][https://github.com/yuanhaoz/HadoopDemo/blob/master/img/hadoop_architecture.jpg]
 
 自2012年以来，“Hadoop”这个术语通常不仅指上述基本模块，而且还指向可以安装在Hadoop之上或之上的附加软件包的收集，例如Apache Pig，Apache Hive，Apache HBase，Apache Spark等。
 
@@ -493,7 +493,7 @@ localhost: starting nodemanager, logging to /home/hadoop/hadoop
 http://localhost:50070/
 ```
 
-![image][https://github.com/yuanhaoz/HadoopDemo/blob/master/img/hadoop_on_browser.jpg]
+![Image text][https://github.com/yuanhaoz/HadoopDemo/blob/master/img/hadoop_on_browser.jpg]
 
 **第5步：验证集群的所有应用程序**
 
@@ -502,7 +502,7 @@ http://localhost:50070/
 http://localhost:8088/
 ```
 
-![image][https://github.com/yuanhaoz/HadoopDemo/blob/master/img/hadoop_application_cluster.jpg]
+![Image text][https://github.com/yuanhaoz/HadoopDemo/blob/master/img/hadoop_application_cluster.jpg]
 
 
 
