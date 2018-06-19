@@ -19,7 +19,7 @@ MapReduce的主要优点是易于在多个计算节点上扩展数据处理。�
 - 该框架管理数据传递的所有细节，例如发出任务，验证任务完成，以及在节点之间复制集群周围的数据。
 - 大多数计算发生在节点上，本地磁盘上的数据减少了网络流量。
 
-![Image text][https://github.com/yuanhaoz/HadoopDemo/blob/master/img/mapreduce_algorithm.jpg]
+![Image text](https://github.com/yuanhaoz/HadoopDemo/blob/master/img/mapreduce_algorithm.jpg)
 
 - 完成给定任务后，集群收集并减少数据以形成适当的结果，并将其发送回Hadoop服务器。
 

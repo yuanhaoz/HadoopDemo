@@ -19,7 +19,7 @@ HDFS拥有大量的数据并提供更容易的访问。为了存储这样巨大�
 
 下面给出了Hadoop文件系统的体系结构。
 
-![Image text][https://github.com/yuanhaoz/HadoopDemo/blob/master/img/hdfs_architecture.jpg]
+![Image text](https://github.com/yuanhaoz/HadoopDemo/blob/master/img/hdfs_architecture.jpg)
 
 HDFS遵循主从架构，并具有以下元素。
 
